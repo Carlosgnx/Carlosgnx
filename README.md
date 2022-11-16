@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carlosgnx
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on anything
 
 <!---
